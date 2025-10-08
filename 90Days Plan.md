@@ -1,6 +1,6 @@
 # Optum 90-Day Detailed  Plan – AWS-to-AWS Cloud Migration
 
-
+> **Disclaimer:** This is a very **generic plan**. Once I get access to the environments and meet with stakeholders, I will refine and update this plan accordingly.
 
 ---
 
@@ -18,8 +18,7 @@
 - Approved AWS account and tool access  
 - Completed compliance and AWS security trainings  
 - Current and target state AWS architecture documentation  
-- Migration strategy and execution roadmap  
-- Proof of Concept (POC) for initial workload migration  
+- Migration strategy and execution roadmap   
 - 90-day progress report and next-phase recommendations  
 
 ---
@@ -28,8 +27,8 @@
 
 | Phase | Duration | Focus |
 |--------|-----------|--------|
-| **Phase 1: Onboard & Discover** | Days 1–30 | Training, access setup, AWS environment analysis |
-| **Phase 2: Plan & Design** | Days 31–60 | AWS migration strategy and POC development |
+| **Phase 1: Onboard & Discover** | Days 1–30 | Training, access setup,stakeholders Meetings, AWS environment analysis |
+| **Phase 2: Plan & Design** | Days 31–60 | AWS migration strategy  |
 | **Phase 3: Execute & Optimize** | Days 61–90 | Initial AWS migrations, performance tuning, and review |
 
 ---
