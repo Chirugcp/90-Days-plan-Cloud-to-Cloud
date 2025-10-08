@@ -1,6 +1,6 @@
 # Optum 90-Day Detailed  Plan – AWS-to-AWS Cloud Migration
 
-> **Disclaimer:** This is a very **generic plan**. Once I get access to the environments and meet with stakeholders, I will refine and update this plan accordingly.
+> **Note:** This is a very **generic plan**. Once I get access to the environments and meet with stakeholders, I will refine and update this plan accordingly.
 
 ---
 
